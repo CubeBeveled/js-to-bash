@@ -1,1 +1,1 @@
-# js-to-bash
+# JS to bash
